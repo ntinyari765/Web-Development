@@ -12,6 +12,11 @@ HTML is the standard markup language used to create the **structure** of a webpa
 - Images (`<img>`)
 - Lists (`<ul>` and `<ol>`)
 
+  **Example:**
+```html
+<h1>Hello World</h1>
+<p>This is my first webpage.</p>
+
 ## CSS Basics
 
 ### What is CSS?
