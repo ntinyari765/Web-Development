@@ -1,0 +1,25 @@
+p {
+    color: red;
+    font-size: 30px;
+}
+
+#headings1 {
+    color:chartreuse;
+    font-size: 50px;
+}
+
+.text-highlight {
+    background-color: yellow;
+    padding: 5px;
+    margin: 20px;
+}
+
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 2.5;
+}
