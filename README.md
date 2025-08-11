@@ -17,6 +17,8 @@ Example:
 <h1>Hello World</h1>
 <p>This is my first webpage.</p>
 
+---
+
 ## CSS Basics
 
 ### What is CSS?
