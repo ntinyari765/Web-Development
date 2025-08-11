@@ -12,13 +12,6 @@ HTML is the standard markup language used to create the **structure** of a webpa
 - Images (`<img>`)
 - Lists (`<ul>` and `<ol>`)
 
-Example:
-```html
-<h1>Hello World</h1>
-<p>This is my first webpage.</p>
-
----
-
 ## CSS Basics
 
 ### What is CSS?
@@ -33,6 +26,11 @@ CSS (Cascading Style Sheets) is used to style and format HTML elements on a webp
 A CSS rule has two main parts:
 - **Selector** – Targets the HTML element.
 - **Declaration Block** – Contains property-value pairs.
+
+Example:
+```html
+<h1>Hello World</h1>
+<p>This is my first webpage.</p>
 
 Example:
 ```css
